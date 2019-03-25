@@ -1,0 +1,24 @@
+body {
+  font-family: "Ubuntu";
+  padding: 24px;
+  background-color: rgb(3, 3, 75);
+}
+
+h1 {
+  font-weight: 300;
+}
+* {
+  color: white;
+}
+
+#button {
+  background:rgb(66, 3, 3);border-width:2px;border-style: solid;border-color: #454545;position:relative;margin:1em;display:inline-block;padding:0.5em 1em;transition:all 0.3s ease-in-out;text-align:center;
+  font-family:comfortaa;font-weight:bold;
+  color:white;
+}
+
+li {
+  font-size: 20px;
+}
+
+ 
